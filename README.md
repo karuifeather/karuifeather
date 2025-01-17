@@ -2,7 +2,7 @@
 
 ## Hi I'm Aashaya 👋🪶 
 
-My curiosity fuels my coding, constant learning, and enthusiasm for leadership. Outside of tech, you’ll find me watching anime, hiking, or studying Japanese (atm).
+My curiosity fuels my coding, constant learning, and enthusiasm for leadership. 
 
 ## 🛠️ Tech & Tools I Use:
 
