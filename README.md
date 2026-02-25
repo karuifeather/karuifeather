@@ -1,9 +1,5 @@
 ![banner](https://github.com/user-attachments/assets/a058a214-5d58-4a0a-b212-6bfdcb435156)
 
-## Hi I'm Aashaya 👋🪶 
-
-My curiosity fuels my coding, constant learning, and enthusiasm for leadership. 
-
 ## 🛠️ Tech & Tools I Use:
 
 ### 🖥️ Languages
@@ -64,12 +60,7 @@ My curiosity fuels my coding, constant learning, and enthusiasm for leadership.
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
 
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=karuifeather&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-You can connect with me on [LinkedIn](https://www.linkedin.com/in/karuifeather) or check out some of my projects below!
-
+[LinkedIn](https://www.linkedin.com/in/karuifeather)
 ---
 
 
